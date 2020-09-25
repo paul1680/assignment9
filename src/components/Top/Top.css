@@ -1,0 +1,10 @@
+.naav{
+    padding-left: 100px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+  }
+  .logo{
+    height: 40px; 
+    width: 130px;
+    filter: brightness(800%);
+  }

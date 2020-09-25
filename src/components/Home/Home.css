@@ -1,0 +1,13 @@
+.row{
+    padding-left:100px;
+    padding-bottom: 80px;
+    color: white;
+}
+.areaImg{
+    height: 400px;
+    width: 220px;
+    margin: 20px;
+}
+#topBtn{
+    display: none;
+}

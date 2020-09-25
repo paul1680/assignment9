@@ -1,5 +1,13 @@
-.App {
-  text-align: center;
+
+.App{
+  background-image: url('./Image/image.jpg');
+  background-size: cover; 
+  background-repeat: no-repeat;
+  opacity: 1;
+}
+
+h5{
+  color: white;
 }
 
 .App-logo {
